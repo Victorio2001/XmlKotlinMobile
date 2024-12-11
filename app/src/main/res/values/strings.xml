@@ -1,5 +1,15 @@
 <resources>
 
     <string name="app_name">TP1</string>
+    <string name="hello_world">Rendue du tp1 -- Victorio Garcia</string>
+
+    <string name="exercice1">Exercice numéro 1</string>
+    <string name="exercice1Button1" >Bouton 1</string>
+    <string name="exercice1Button2">Bouton 2</string>
+    <string name="exercice1Button3">Bouton 3</string>
+
+    <string name="exercice2">Exercice numéro 2</string>
+    <string name="exercice3">Exercice numéro 3</string>
+    <string name="exercice4">Exercice numéro 4</string>
 
 </resources>
