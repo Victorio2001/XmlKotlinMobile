@@ -7,6 +7,10 @@
     <string name="exercice1Button2">Button 2</string>
     <string name="exercice1Button3">Button 3</string>
     <string name="exercice2">Exercice number 2</string>
+    <string name="exercice2Button4">Button 4</string>
     <string name="exercice3">Exercice number 3</string>
     <string name="exercice4">Exercice number 4</string>
+    <string name="exercice2Button1">Button 1</string>
+    <string name="exercice2Button2">Button 2</string>
+    <string name="exercice2Button3">Button 3</string>
 </resources>
