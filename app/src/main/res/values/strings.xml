@@ -21,5 +21,8 @@
     <string name="exercice3Button3">Bouton 3</string>
 
     <string name="exercice4">Exercice numéro 4</string>
+    <string name="more">Plus</string>
+    <string name="call">Appeler</string>
+
 
 </resources>

@@ -16,4 +16,6 @@
     <string name="exercice2Button3">Button 3</string>
     <string name="exercice3Button1">Button 1</string>
     <string name="exercice3Button2">Button 2</string>
+    <string name="more">More</string>
+    <string name="call">Call</string>
 </resources>
